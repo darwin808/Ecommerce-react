@@ -1,0 +1,28 @@
+.App{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.nav-links{
+    display: flex;
+    justify-content: space-between;
+   
+
+}
+
+.Navbar-container{
+    background-color: blueviolet;
+    
+}
+
+.Foobar-container{
+    height: 20vh;
+    background-color: cadetblue;
+}
+
+.BodyPage-container{
+    height: auto;
+    background-color: #ffffff;
+}
+
